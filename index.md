@@ -11,3 +11,7 @@ Obwohl ihm mehrfach die Position des Zaubereiministers angeboten wurde, zog er e
 * Grindelwald
 * Voldemort
 * Orden des Phoenix
+
+Dumbledore sagte:
+> Viel mehr, als unsere Fähigkeiten sind es unsere Entscheidungen,
+> die zeigen, wer wir wirklich sind.
