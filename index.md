@@ -5,9 +5,9 @@ Dumbledore unterrichtete in Hogwarts das Fach Verwandlung, bis er es an seine Ko
 Obwohl ihm mehrfach die Position des Zaubereiministers angeboten wurde, zog er es vor Schulleiter von Hogwarts zu bleiben
 
 ## wichtige Attribute
-- Schulleiter
-- Schokofrosch-Sammelreihe
-- muggelfreundlich
-- Grindelwald
-- Voldemort
-- Orden des Phoenix
+* Schulleiter
+* Schokofrosch
+* muggelfreundlich
+* Grindelwald
+* Voldemort
+* Orden des Phoenix
